@@ -387,3 +387,5 @@ for (var i = 0; i < strL; i++) {
 //   return e * 2;
 // });
 // console.log(mapMethod, forEachMthod);
+
+//  this is all about javascript code
